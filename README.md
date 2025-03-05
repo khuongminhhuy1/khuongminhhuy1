@@ -6,16 +6,9 @@ I'm a full-stack web developer (Strong backend) passionate about building scalab
 #🛠️ Tech Stack
 
 ## Frontend:
-Vue.js (Pinia, Composition API)
-Tailwind CSS
-Vue Router
-Axios
+Vue.js (Pinia, Composition API), Tailwind CSS, Vue Router, Axios, Vue-Toastification
 ## Backend:
-Node.js (Express.js)
-Prisma ORM
-MySQL / PostgreSQL
-JWT Authentication & OAuth
-Cloudinary (Image Storage)
+Node.js (Express.js), Prisma ORM, MySQL / MongoDB, JWT Authentication & OAuth, Cloudinary (Image Storage), Crypto and Bcrypt (Hashing)
 
 # 📌 Projects
 ☕ Coffee Shop - Full-Stack E-commerce Platform
