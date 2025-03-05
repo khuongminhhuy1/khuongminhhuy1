@@ -17,6 +17,7 @@ Prisma ORM
 MySQL / PostgreSQL
 JWT Authentication & OAuth
 Cloudinary (Image Storage)
+
 📌 Projects
 ☕ Coffee Shop - Full-Stack E-commerce Platform
 An e-commerce website for coffee lovers. Features include secure authentication, shopping cart, order management, and Cloudinary for image handling.
